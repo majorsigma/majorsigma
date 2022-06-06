@@ -2,4 +2,4 @@
 - 👀 I’m interested in software development using Dart, Flutter, Java and Python
 - 🌱 I’m currently focused on mobile app development using Flutter
 - 💞️ I’m looking to collaborate on any Flutter project
-- 📫 You can reach me via olalekan.o.ogundele@gmail.com or text/WhatsApp me on +2348123891421
+- 📫 You can reach me via olalekan.o.ogundele@gmail.com
